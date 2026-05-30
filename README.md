@@ -12,7 +12,7 @@ Used  basic Data cleaning and Preparation techniques in Product I'd, Product Nam
 * Found the blanks and replaced them with the existing category, which has the same product name in the Category field using the filter arrow.
 * Removed the space between some Product names by find and replace. And capitalized the First letter only.
 * Found the same category with a different spelling and replaced it with one proper name [Electroni to Electronics].
-* 3 duplicate product id's were removed (21-AUG-CA, 16-APR-ES, 17-JUN-IN) using Remove Duplicates option in Data Tab.
+* 3 duplicate product I'd's were removed (21-AUG-CA, 16-APR-ES, 17-JUN-IN) using Remove Duplicates option in Data Tab.
 * * Product I'd column was split into two columns.							
         Using the Left function, the Manufacturing date column is created.							
         Using the right function, the country code column is created.							
